@@ -1,33 +1,31 @@
-## Hi there 👋
-
-<!--
-**NornChanthorn/NornChanthorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋 I'm Chanthorn</h1>
+<h2 align="center">Hi 👋 I'm Chanthorn</h2>
 
 <p align="center">
-Software Developer • Continues Learner 
+Software Developer • Continuous Learner
 </p>
 
 <p align="center">
-Building systems, products, and ideas that connect people.
+Trying to build things that are useful, simple, and meaningful.
 </p>
 
----
 
 
-## 🛠 Tech Stack
+<h3> 👨‍💻 About Me</h3>
+
+I'm a software developer who enjoys turning ideas into real products.
+
+Most of my work revolves around building **web and mobile applications**, experimenting with different technologies, and continuously improving how I design systems.
+
+I didn’t start coding through a traditional path, I learned mostly by **building projects and figuring things out along the way**. Because of that, I value curiosity, experimentation, and constant learning.
+
+Sometimes the code works perfectly.  
+Sometimes it breaks in the most mysterious ways.  
+Either way, it’s part of the journey.
+
+
+
+
+<h3>🛠 Tech Stack</h3> 
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
@@ -48,40 +46,30 @@ Building systems, products, and ideas that connect people.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NornChanthorn&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NornChanthorn&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🌱 Currently Learning
 
 • Backend system architecture  
-• Scalable product design  
-• Event ecosystem infrastructure  
+• Designing scalable systems  
+• Building better developer habits  
 
----
+I’m still figuring things out — but that’s what makes this journey interesting.
+
+
 
 ## 🎧 Outside of Coding
 
 When I'm not coding, you'll probably find me:
 
 🎵 Listening to music  
-🚗 Driving with chill playlists  
-🧠 Thinking about product ideas  
-
----
+🚗 Driving with soft or chill playlists  
+📖 Reflecting on how to improve my work and mindset  
 
 
 
----
+## 💭 A Thought I Like
 
-⭐ *“Build things that matter.”*
+> Do the work with your full effort.  
+> Even if it doesn't succeed, at least you leave with fewer doubts.
+
