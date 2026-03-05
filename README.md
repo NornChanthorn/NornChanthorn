@@ -1,16 +1,16 @@
-<p align="center">
-" Code, music, and quiet curiosity "
-</p>
+<h2 align="center">Code, music, and quiet curiosity</h2>
 
-When I'm not coding, you'll probably find me:
+---
 
-🎵 Listening to music  
-🚗 Driving with soft or chill playlists  
-📖 Reflecting on how to improve myself 
+### 🎧 Outside of Coding
 
+🎵 Music  
+🚗 Late drives with chill playlists  
+📖 Self-reflection  
+
+---
 
 ### 💭 A Thought I Like
 
-> Do the work with your full effort.  
-> Even if it doesn't succeed, at least you leave with fewer doubts.
-
+> Give your best effort.  
+> Even if it fails, you leave with fewer doubts.
